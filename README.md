@@ -16,12 +16,14 @@
   </a>
 </div>
 
-### About Me :
+### :woman_technologist: About Me :
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: Certified engineer, engaged in the creation and improvement of interfaces.
+- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
-- :seedling: In my free time I study technical literature.
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Lissenok88-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/LissenoK88)
 
@@ -29,9 +31,17 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### :hammer_and_wrench: Languages and Tools :
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
-![Spring](https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Java-#6DB33F?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=java&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=java&logoColor=white)
+![Hibernate ORM](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=java&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=java&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 
 ---
