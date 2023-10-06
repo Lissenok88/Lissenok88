@@ -16,14 +16,14 @@
   </a>
 <div>
 
-### :man_technologist: About Me :
+### About Me :
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: Certified engineer, engaged in the creation and improvement of interfaces.
 
 - :seedling: In my free time I study technical literature.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Lyudmila-Ivanyuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/LissenoK88)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Lissenok88-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/LissenoK88)
 
 ---
 
@@ -38,7 +38,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Lissenok88&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisenok88&layout=compact&theme=vision-friendly-dark&hide_border=true&hide=php,blade)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lissenok88&layout=compact&theme=vision-friendly-dark&hide_border=true&hide=php,blade)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
