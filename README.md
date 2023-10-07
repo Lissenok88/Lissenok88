@@ -16,6 +16,10 @@
   </a>
 </div>
 
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Agnason&style=flat-square&color=blue" alt="" />
+</div>
+
 ### :woman_technologist: About Me :
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
